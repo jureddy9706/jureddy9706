@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nanduvardhanreddy
-- 👀 I’m interested in ..Technology
-- 🌱 I’m currently learning ...Deep learning
+-📝📑I AM TRYING TO HELP FRESHERS TO START THEIR CAREERS IN DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...Deep learning
 - 📫 You can reach me jureddy9706@gmail.com
 
