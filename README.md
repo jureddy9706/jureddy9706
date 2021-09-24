@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nanduvardhanreddy
--📝📑I RECENTLY STATRED TO HELP FRESHERS TO START THEIR CAREERS IN DATA SCIENCE
+-📝📑I STRUGGLED A LOT TO GET INTO DATASCIENCE I WOULLD LIKE TO HELP ANYONE THROUGH MY GITHUB
 
 I know i am not a Great teacher i hope if i can help even a single person i will be so happy
 - 💞️ I’m looking to collaborate on ...Deep learning
