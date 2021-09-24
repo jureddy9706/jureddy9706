@@ -2,7 +2,7 @@
 -📝📑
  I WOULD LIKE TO HELP ANYONE THROUGH MY GITHUB
 
-I know i am not a Great teacher i hope if i can help even a single person i will be so happy
+I know i am not a Great teacher but i can share what i know. i hope if i can help even a single person i will be so happy
 - 💞️ I’m looking to collaborate on ...Deep learning
 - 📫 You can reach me jureddy9706@gmail.com
 
