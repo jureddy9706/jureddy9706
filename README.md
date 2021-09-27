@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAHUL
+- 👋 Hi, I’m @Amireddy NanduvardhanReddy
 -📝📑
  I WOULD LIKE TO HELP ANYONE THROUGH MY GITHUB
 
